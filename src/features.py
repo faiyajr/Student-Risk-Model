@@ -5,7 +5,6 @@ def prepare_features(df: pd.DataFrame):
     Converts raw student data into model-ready features.
     """
 
-
     features = df[[
         "attendance_rate",
         "avg_assignment_score",
