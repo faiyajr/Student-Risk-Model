@@ -1,0 +1,7 @@
+student_id,attendance_rate,avg_assignment_score,avg_exam_score,late_submissions,risk_status,predicted_risk_status,risk_probability
+1,0.95,88,90,0,0,0,0.11421812823123781
+2,0.6,65,70,4,1,1,0.7928595080656684
+3,0.85,78,80,1,0,0,0.3014950772064473
+4,0.5,55,60,6,1,1,0.9402720208696145
+5,0.92,91,94,0,0,0,0.09968249545483407
+6,0.7,68,72,3,1,1,0.6585512677321415
